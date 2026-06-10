@@ -1,0 +1,7 @@
+# 忽略各 skill 内部生成文件
+**/.git/
+**/.redskill-installed
+**/__pycache__/
+**/*.pyc
+**/node_modules/
+**/.DS_Store

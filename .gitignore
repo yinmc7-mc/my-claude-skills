@@ -5,3 +5,4 @@
 **/*.pyc
 **/node_modules/
 **/.DS_Store
+skills/baidu-search/scripts/config.json

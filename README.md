@@ -57,16 +57,16 @@ rm ~/.claude/skills/<skill名>
 | ppt-to-editable | PPT截图转可编辑PPT |
 | rw-consulting-ppt | 咨询风PPT生成 |
 
-### 内容创作类（6个）:star: :gift: 全部原创
+### 内容创作类（6个）
 
-| Skill | 说明 | 状态 |
-|---|---|---|
-| codebase-to-course | 代码库转课程 | 原创 |
-| follow-builders | 关注Builder动态 | 原创 |
-| frontend-slides | 前端幻灯片生成 | 原创 |
-| newspaper-style | 报纸风格排版 | 原创 |
-| youtube-to-ebook | YouTube视频转电子书 | 原创 |
-| write-academic-report | 学术报告写作 | 原创 |
+| Skill | 说明 |
+|---|---|
+| codebase-to-course | 代码库转课程 |
+| follow-builders | 关注Builder动态 |
+| frontend-slides | 前端幻灯片生成 |
+| newspaper-style | 报纸风格排版 |
+| youtube-to-ebook | YouTube视频转电子书 |
+| write-academic-report | 学术报告写作 |
 
 ### 工具 / 数据类（7个）
 
